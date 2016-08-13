@@ -28,7 +28,7 @@ ArmaLife is a GitHub project which aims to update and keep adding new features t
 * If your pull request adds a new feature to the mission then...
   * ...decide if the mission would actually benefit from your new feature. You may wish to create an issue to discuss the implementation of your feature with other contributors. 
     * ...if others think that your feature should be implemented then go ahead and submit a pull request. 
-    * ...if not then consider posting a tutorial on how to install it on the [Altis Life RPG forums](http://www.altisliferpg.com/). 
+    * ...if not then instead consider posting a tutorial on the [Altis Life RPG forums](http://www.altisliferpg.com/) on how to implement it. 
   * ...be sure to thoroughly test your code for any errors and, if applicable, possible exploits. 
   * ...optimise your code to have as little impact on performance as possible. See [code optimisation](https://community.bistudio.com/wiki/Code_Optimisation) on the Bohemia Interactive Wiki for more information. 
   * ...if applicable, be sure to update the [BattlEye filters](https://github.com/ArmaLife/Framework/tree/master/BEFilters) and [SpyGlass variables](https://github.com/ArmaLife/Framework/blob/master/life_client/config/Config_SpyGlass.hpp) to be compatible with your changes. If you are unsure on how to do so then ask if someone else would be kind enough to do so for you. 
