@@ -43,8 +43,14 @@ ArmaLife is a GitHub project which aims to update and keep adding new features t
   * ...tab detected then you need to indent with four (4) spaces for each one (1) tab. 
 
 ## Can I help?
-* If you are knowledgeable in [SQF](https://community.bistudio.com/wiki/SQF_syntax), [SQL](https://en.wikipedia.org/wiki/SQL), [C++](https://en.wikipedia.org/wiki/C%2B%2B), or [regular expressions](http://www.regular-expressions.info/), or are fluent in one or more of [these languages](https://community.bistudio.com/wiki/Stringtable.xml#Languages) then **you** have what it takes to helps us expand and improve upon this mission. 
-* If not, but you can setup your own server then you can help us test the build for bugs, exploits, security and performance issues. 
+* If you are competent in any of the below then you have what it takes to help us expand and improve upon this framework. 
+  * [SQF](https://community.bistudio.com/wiki/SQF_syntax) - Scripting. 
+  * [SQL](https://en.wikipedia.org/wiki/SQL) - Database structure. 
+  * [C++](https://en.wikipedia.org/wiki/C%2B%2B) - Configs and [dialogs](https://community.bistudio.com/wiki/Dialog_Control). 
+  * [Regular expressions](http://www.regular-expressions.info/) (Regex) - Enhanced [BattlEye filter](https://github.com/ArmaLife/Framework/tree/master/BEFilters) functionality. 
+  * English, Czech, French, Spanish, Italian, Polish, Portuguese, Russian, or German - [Stringtable](https://community.bistudio.com/wiki/Stringtable.xml) localisaiton. 
+* If not, but you can setup and run your own server, then you can help us test the build for bugs, exploits, security and performance issues. 
+* See [issues](https://github.com/ArmaLife/Framework/issues) for a full list of all open tasks and bugs. If you would like to work on a solution to an issue then please leave a comment on that issue so that others know a solution is in progress. 
 
 ## Contact
 If you need to chat with us in real-time then you can do so on [our Discord server](https://discordapp.com/invite/0z4k0hcAcvMl2SQx) or on Gitter in our [development chatroom](https://gitter.im/ArmaLife/Framework) or [support chatroom](https://gitter.im/ArmaLife/Framework/Support). Please note that the development chatroom is for discussing changes with files on the repository whereas the support chatroom is for issues not related to the current build. 
