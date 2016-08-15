@@ -22,6 +22,23 @@ ArmaLife is a GitHub project which aims to update and keep adding new features t
 * **...check that you can reproduce the issue**. 
   * If you cannot reproduce the issue then it can be very difficult to fix it. 
 
+#### When creating a new issue make sure to... 
+* **...give your issue a descriptive but concise title.** 
+  * Straightaway anyone should be able to understand what the issue is about just by reading the title. 
+  * Avoid making the title ambiguous or a sentence that is finished in the body of your issue. 
+* **...provide as much detail as necessary about the issue.** 
+  * Describe what should have occurred. Provide screenshots or video footage if applicable. 
+  * Describe what actually occurred. Provide screenshots or video footage if applicable. 
+  * If you can reproduce the behaviour then also provide steps on how to do so. 
+  * If errors or other messages were output to the game's [RPT](https://community.bistudio.com/wiki/Crash_Files) and/or extDB2 log files then paste those messages into your issue. If the errors or other messages are so long that they cover the whole screen then upload the log files to GitHub instead of pasting them into the issue. 
+  * Include the version of *Arma 3* that you are using. You can acquire this info by starting the *Arma 3* launcher, clicking OPTIONS, and then clicking the version information displayed below. This will copy the info to your clipboard which you can then paste at the bottom of your issue. 
+* **...tag your issue with all applicable labels (if you have the permissions to do so).** 
+  * See [applying labels to issues and pull requests](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/). 
+* **...associate a milestone to better track its progress (if you have the permissions to do so).** 
+  * See [associating milestones with issues and pull requests](https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests/). 
+* **...assign yourself to the issue (if you intend to solve it and if you have the permissions to do so).** 
+  * See [assigning issues and pull requests to other GitHub users](https://help.github.com/articles/assigning-issues-and-pull-requests-to-other-github-users/). 
+
 ## Pull Requests
 * If your pull request fixes an existing issue then be sure to associate your pull request with the issue. This means that if your pull request is merged then the corresponding issue will automatically be closed. See [closing issues via commit messages](https://help.github.com/articles/closing-issues-via-commit-messages/) for what keywords to use. 
 * If your pull request fixes an issue that has not been reported then be sure to clearly specify the fix in your pull request message. 
