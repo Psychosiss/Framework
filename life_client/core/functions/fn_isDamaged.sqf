@@ -11,7 +11,7 @@ params [
     ["_target",objNull,[objNull]]
 ];
 
-_damage = (getAllHitPointsDamage _target select 2) call BIS_fnc_greatestnum;
+_damage = (getAllHitPointsDamage _target select 2) call BIS_fnc_greatestNum;
 _return = ([false,true] select (_damage > 0.01)); 
  
 _return;
